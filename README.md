@@ -27,7 +27,7 @@ The objectives of this project are to:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **Social Network Ads** dataset.
 
@@ -46,7 +46,7 @@ The problem is treated as a **binary classification** task.
 
 ---
 
-## 🧠 What is Gradient Descent?
+## What is Gradient Descent?
 
 Gradient Descent is an optimization algorithm used to minimize a model's loss function.
 
@@ -68,7 +68,7 @@ The difference between Batch and Stochastic Gradient Descent is mainly **how muc
 
 ---
 
-## 🔵 Batch Gradient Descent
+## Batch Gradient Descent
 
 Batch Gradient Descent calculates the gradient using the **entire training dataset** before updating the model parameters.
 
@@ -90,7 +90,7 @@ Update Weights
 
 ---
 
-## 🟠 Stochastic Gradient Descent
+## Stochastic Gradient Descent
 
 Stochastic Gradient Descent updates the model parameters using **one training example at a time**.
 
@@ -115,7 +115,7 @@ Next Sample
 
 ---
 
-## 🔬 Experiment Workflow
+## Experiment Workflow
 
 The notebook follows these steps:
 
@@ -134,7 +134,7 @@ The notebook follows these steps:
 
 ---
 
-## 📈 Batch GD vs SGD
+## Batch GD vs SGD
 
 | Feature          | Batch Gradient Descent | Stochastic Gradient Descent |
 | ---------------- | ---------------------- | --------------------------- |
@@ -148,7 +148,7 @@ The notebook follows these steps:
 
 ---
 
-## 🔑 Key Learnings
+## Key Learnings
 
 ### Batch Gradient Descent
 
@@ -162,7 +162,7 @@ This can make the loss curve noisy but can also help the model move quickly thro
 
 ---
 
-## ⚖️ The Main Trade-Off
+## The Main Trade-Off
 
 The important difference can be summarized as:
 
@@ -186,7 +186,7 @@ The appropriate optimization strategy depends on:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **NumPy**
@@ -197,7 +197,7 @@ The appropriate optimization strategy depends on:
 
 ---
 
-## 📚 Concepts Demonstrated
+## Concepts Demonstrated
 
 * Gradient Descent
 * Batch Gradient Descent
@@ -213,7 +213,7 @@ The appropriate optimization strategy depends on:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 After completing this project, I developed a better understanding of:
 
@@ -227,7 +227,7 @@ After completing this project, I developed a better understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible extensions include:
 
@@ -242,7 +242,7 @@ Possible extensions include:
 
 ---
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 Batch Gradient Descent and Stochastic Gradient Descent are two fundamental approaches to optimization.
 
